@@ -142,5 +142,7 @@ helm install jenkins stable/jenkins --set
 rbac.create=true,master.servicePort=80,master.serviceType=LoadBalancer
 ,persistence.existingClaim=efs-claim
 
+---------------Install sonarqube pods to the cluster--------------
+helm install stable/sonarqube
 
 
