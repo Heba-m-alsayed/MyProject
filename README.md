@@ -145,4 +145,4 @@ rbac.create=true,master.servicePort=80,master.serviceType=LoadBalancer
 ---------------Install sonarqube pods to the cluster--------------
 helm install stable/sonarqube
 
-
+https://www.jenkins.io/doc/book/installing/kubernetes/
