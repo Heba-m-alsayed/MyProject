@@ -1,8 +1,8 @@
 <h1> MyProject </h1> <br>
 
-<strong> Subject :  DevOps Assignment </strong>
+<strong> Subject :  DevOps Assignment </strong> <br>
 <strong> Author  :  Heba Mohamed </strong>
-<img src="https://miro.medium.com/max/1076/1*QwJOyLmOeKOSCmCNXw1CUg.png" />
+<img src="https://miro.medium.com/max/1076/1*QwJOyLmOeKOSCmCNXw1CUg.png" style='width:200px;heigth:200px;' />
 <h3> <strong> Install Terraform to my loacal machine </strong> </h3> <br>
 
 > wget https://releases.hashicorp.com/terraform/0.12.16/terraform_0.12.16_linux_amd64.zip <br>
