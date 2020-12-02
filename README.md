@@ -1,4 +1,6 @@
 <h1> MyProject </h1> <br>
+
+<strong> Author :  Heba Mohamed </strong>
 <img src="https://miro.medium.com/max/1076/1*QwJOyLmOeKOSCmCNXw1CUg.png" />
 <h3> <strong> Install Terraform to my loacal machine </strong> </h3> <br>
 
