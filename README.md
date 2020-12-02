@@ -1,8 +1,8 @@
 #### MyProject #### <br>
 ----Install Terraform to my loacal machine <br>
-wget https://releases.hashicorp.com/terraform/0.12.16/terraform_0.12.16_linux_amd64.zip
-unzip terraform_0.12.16_linux_amd64.zip
-sudo mv terraform /usr/local/bin/ && rm terraform_0.12.16_linux_amd64.zip
+wget https://releases.hashicorp.com/terraform/0.12.16/terraform_0.12.16_linux_amd64.zip <br>
+unzip terraform_0.12.16_linux_amd64.zip <br>
+sudo mv terraform /usr/local/bin/ && rm terraform_0.12.16_linux_amd64.zip <br>
 terraform
 --------Install and configure AWS CLI
 yum install pip
