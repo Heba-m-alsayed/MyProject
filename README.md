@@ -1,5 +1,5 @@
 <h1> MyProject </h1> <br>
-----Install Terraform to my loacal machine <br>
+<h3> <strong> Install Terraform to my loacal machine </strong> </h3> <br>
 wget https://releases.hashicorp.com/terraform/0.12.16/terraform_0.12.16_linux_amd64.zip <br>
 unzip terraform_0.12.16_linux_amd64.zip <br>
 sudo mv terraform /usr/local/bin/ && rm terraform_0.12.16_linux_amd64.zip <br>
